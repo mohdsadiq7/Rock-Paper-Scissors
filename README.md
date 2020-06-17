@@ -6,3 +6,4 @@ to play the game or to use it as a small project
 2. run the index.html file 
 3. you are ready with the game.
 # A look of the front end of the game
+<img src="images/Screenshot(24).png">
