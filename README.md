@@ -12,7 +12,7 @@ to play the game or to use it as a small project
 
 # A look of the front end of the game while playing and displaying scores
 
-![](images/img2.png)
+![](images/img2.png) 
 
 Go ahead make a move !!
 Have fun :)
